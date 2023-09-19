@@ -1,4 +1,4 @@
-package oop;
+package oop.WashingMachine;
 
 public class WashingMachine {
     public static void main(String[] args) {

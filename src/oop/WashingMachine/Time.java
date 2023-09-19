@@ -1,4 +1,4 @@
-package oop;
+package oop.WashingMachine;
 
 public class Time {
     private int hours;
